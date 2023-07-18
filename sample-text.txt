@@ -1,3 +1,0 @@
-this is a sample text file to test proper working of git accounts.
-
-now let me see this again if this is working really fine or not.
